@@ -1,0 +1,7 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+
+table.dataTable td.dataTables_empty {
+  text-align: center !important;
+}
